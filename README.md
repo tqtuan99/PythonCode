@@ -1,3 +1,3 @@
 # PythonCode
 
-Bai Tap Ve Nha Python AI
+This is my AI Python homework
